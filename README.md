@@ -29,5 +29,5 @@ Total clicks = 7
 ```
 # Project Goals
 
-The code is written for educational purposes. Training course: API to web services - [DVMN.org](https://dvmn.org)
+The code is written for educational purposes. Training course: API to web services - [STEPIK.org](https://stepik.org)
  
