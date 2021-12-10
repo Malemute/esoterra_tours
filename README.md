@@ -7,24 +7,18 @@ The script requires Python 3.7 or later version installed. Then use pip (or pip3
 ```
 pip install -r requirements.txt
 ```
+The script is totally compatible with PEP8, so it does not need the ".flake8" file.
 
 Example of script launch on Linux, Python 3.7:
 
 ```bash
 
-$ python main.py --url <incoming url> # possibly requires call of python3 executive instead of just python
+$ python manage.py runserver # possibly requires call of python3 executive instead of just python
 
 ```
 # Output Example
-To create a short link:
+None
 
-```
-Битлинк = bit.ly/3ci09sP
-```
-To count clicks:
-```
-Total clicks = 7
-```
 # Project Goals
 
 The code is written for educational purposes. Training course: API to web services - [STEPIK.org](https://stepik.org)
